@@ -1,2 +1,3 @@
 # leetcode
-try leetcode
+LeetCode Algorithm
+
